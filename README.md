@@ -1,4 +1,5 @@
 # Unit 10 OOP Homework: Template Engine - Employee Summary
+![ProfileImage](https://img.shields.io/badge/pablo-pvazquezems-brightgreen)  
 
 ## created a command line app, that generates a team.html file from the inputs the user made via prompts on the terminal, and using templates 
 
